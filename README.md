@@ -11,3 +11,6 @@ https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-2013202
 
 Weather Data (NOAA): 
 https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00946/html
+
+Snow Data (California Department of Water Resources) from California Data Exchange Center:
+https://cdec.water.ca.gov/dynamicapp/snowQuery
