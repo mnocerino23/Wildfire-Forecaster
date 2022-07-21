@@ -1,6 +1,6 @@
 # Wildfire-Forecaster
 
-![unnamed](https://user-images.githubusercontent.com/81653555/180285457-abf092d0-bab9-4848-9653-81e567a6d521.jpg)
+![unnamed](https://user-images.githubusercontent.com/81653555/180285747-bf0f240d-7924-441d-a47c-36c46880e1ee.jpg)
 
 In this project, I conduct an in depth analysis to find out which features contribute to the occurence and severity of forest fires in the United States.
 I use wildfire data from the state of California coupled with Machine Learning to predict wildfire trends and affected areas in the
