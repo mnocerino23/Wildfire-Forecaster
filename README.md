@@ -14,3 +14,10 @@ https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C0
 
 Snow Data (California Department of Water Resources) from California Data Exchange Center:
 https://cdec.water.ca.gov/dynamicapp/snowQuery
+
+
+Elevation Data (via Open-Elevation API):
+https://open-elevation.com/
+https://github.com/Jorl17/open-elevation
+Lookup Documentation: 
+https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
