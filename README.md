@@ -1,6 +1,6 @@
 # Wildfire-Forecaster
 
-![unnamed](https://user-images.githubusercontent.com/81653555/180285747-bf0f240d-7924-441d-a47c-36c46880e1ee.jpg)
+![dixie-fire_josh-edelson-afp-getty-scaled](https://user-images.githubusercontent.com/81653555/185467544-dea36147-ac25-4ec2-a39e-4b74be801d9d.jpg)
 
 In this project, I conduct an in depth analysis to find out which features contribute to the occurence and severity of forest fires in the United States.
 I use wildfire data from the state of California coupled with Machine Learning to predict wildfire trends and affected areas in the
